@@ -1,1 +1,1 @@
-Sitemap: /bef/sitemap.xml
+Sitemap: /tourismBlog/sitemap.xml
