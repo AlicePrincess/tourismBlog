@@ -4,7 +4,7 @@ title: "煎饼: 一只饼"
 img: himalayan.jpg # Add image post (optional)
 date: 2017-07-12 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Blogging, Mountains]
+tag: [旅游, 博客, 山]
 ---
 中国地处欧亚板块东南部，为印度洋板块、太平洋板块所夹峙。
 第三纪以来，各个板块相互碰撞，对中国现代地貌格局和演变发生重要影响。自始新世以来，印度洋板块向北俯冲，产生强大的南北向挤压力，致使青藏高原快速隆起，形成喜马拉雅山地，这次构造运动称为喜马拉雅运动。喜马拉雅运动分早、晚两期，早喜马拉雅运动，印度洋板块与亚洲大陆之间沿雅鲁藏布江缝合线发生强烈碰撞。喜马拉雅地槽封闭褶皱成陆，使印度大陆与亚洲大陆合并相连。与此同时中国东部与太平洋板块之间则发生张裂，海盆下沉，使中国大陆东部边缘开始进入边缘海-岛屿发展阶段。 
