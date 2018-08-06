@@ -4018,6 +4018,7 @@ cite {
 
 .chapters .chapter img {
   width: 100%;
+  height: 100%;
   vertical-align: middle;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
@@ -4313,7 +4314,9 @@ cite {
 .post .entry_content {
   padding-bottom: 2rem;
 }
-
+.post .entry_content img {
+  width: 100%;
+}
 .post_footer {
   padding: 2rem 0;
   background-color: #ffffff;
