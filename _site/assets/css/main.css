@@ -4022,12 +4022,14 @@ cite {
   vertical-align: middle;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
+  opacity: 0.6;
 }
 
 .chapters .chapter img:hover {
   -webkit-transform: scale(1.5);
       -ms-transform: scale(1.5);
           transform: scale(1.5);
+          opacity: 1;
 }
 
 .chapters .chapter_inner {
