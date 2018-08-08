@@ -9,3 +9,9 @@ $(window).scroll(function() {
     $('.top').removeClass("up");
   }
 });
+window.onload=function(){
+  var arr=['himalayan','sweden','nevada','new-zealand','new-york','malaysia','indonesia','canyon']
+    var index = Math.floor((Math.random()*arr.length)); 
+    $("#banner img").attr("src",$("#banner img").attr("src").split("img/")[0]+"img/"+arr[index]+".jpg");
+    
+}
