@@ -55,6 +55,7 @@ for(var i=0;i<data.length;i++){
     var marker2 = new BMap.Marker(new BMap.Point(data[i].pointX,data[i].pointY),{icon:myIcon});  // 创建标注
 map.addOverlay(marker2);              // 将标注添加到地图中
 var label = new BMap.Label(data[i].name,{offset:new BMap.Size(20,-10)});
+label.setStyle({ color : "#2dc4bbff", borderColor : "#2dc4bbff",backgroundColor:"rgba(0,0,0,0.8)" }) 
     marker2.setLabel(label);
     marker2.addEventListener("click",getAttr);
     function getAttr(){
